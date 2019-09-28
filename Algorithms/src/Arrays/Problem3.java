@@ -1,0 +1,10 @@
+package Arrays;
+//Trapping rain water.
+public class Problem3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
