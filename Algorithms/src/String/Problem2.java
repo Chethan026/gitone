@@ -10,13 +10,13 @@ public class Problem2 {
 		String s1="geeks";
 		String s2="gkese";
 		
-		boolean f = siAnagram(s1,s2);
+		boolean f = isAnagram(s1,s2);
 		
 		System.out.println(f);
 
 	}
 
-	private static boolean siAnagram(String s1, String s2) {
+	private static boolean isAnagram(String s1, String s2) {
 		
 		int[] count=new int[256];
 		

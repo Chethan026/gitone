@@ -7,7 +7,7 @@ public class Problem3 {
 
 	public static void main(String[] args) {
 		
-		String s1 = "abbcc";
+		String s1 = "ascdbcc";
 		
 		int i = leftMostIndexOfRepeatingChar(s1);
 		
